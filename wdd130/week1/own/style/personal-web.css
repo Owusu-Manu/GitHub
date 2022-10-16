@@ -1,0 +1,50 @@
+#hero-msg {
+    background-color: #0000ff;
+    text-align: center;
+    position: relative;
+    padding: 100px;
+    font-size: 2em;
+    color: #fdd2a9;
+}
+
+header {
+    background-color:rgba(20,30,13, .7);
+}
+
+nav a {
+    text-align: center;
+    color: #fcfbfb;
+    text-decoration: none;
+    padding: 35px;
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    margin: 0;
+    font-family: 'Merriweather', serif;
+    font-size: large;
+    background-color: #fdd2a9;
+    
+}
+
+h1 {
+    margin-top: 0;
+    font-family: 'Sacramento', cursive;
+    color: #fdd2a9;
+}
+
+.dev {
+    text-decoration: underline;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
