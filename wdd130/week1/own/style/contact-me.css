@@ -4,7 +4,7 @@
 body {
     background-color: #fff;
     font-family: Roboto, arial, sans-serif;
-    background: url(../images/rattle-snake.jpg);
+    background: url(../images/rafting58_600.jpg);
     font-size: 22px;
     margin: 0;
     padding: 0;
@@ -149,11 +149,11 @@ footer, footer .rivers {
 }
 
 footer h3 {
-    color: white;
+    color: #000000;
 }
 
 footer a {
-    color: whitesmoke;
+    color: #000000;
     text-decoration: none;
     border: 1px green;
  
